@@ -8,7 +8,7 @@ body {font-family: Helvetica;}
 <title>homepage</title></head>
 <body>
 <h1>NetID:wy249</h1>
-<img src="/D/pic/photo.jpg" />
+<img src="/photo.jpg" />
 <p>Wujing Yao in cs program</p>
 <p>like to travel, hike and take photos</p>
 <a href="https://www.google.com/analytics/#?modal_active=none">Google Analytics</a>
